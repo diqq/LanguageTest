@@ -15,7 +15,7 @@ Open Terminal on destination folder and type the CLI below.
 First step, clone the project using web URL:
 
 ```shell
-git clone https://github.com/asenatribanyu/language-test.git
+git clone https://github.com/diqq/language-test.git
 ```
 
 Second step, get inside to the destination folder:
